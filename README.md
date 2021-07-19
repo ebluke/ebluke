@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ebluke
-- 👀 I’m interested in most things
-- 🌱 I’m currently learning c and python
-- 💞️ I’m looking to collaborate on anything instructional to assist learning c and python
-- 📫 How to reach me ethanluke.social@gmail.com
+My name is Ethan
 
 <!---
 ebluke/ebluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
